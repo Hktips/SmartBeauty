@@ -1,0 +1,99 @@
+[{
+        "id": 1,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-photo/stylish-man-sitting-barbershop_1157-20485.jpg?t=st=1719305239~exp=1719308839~hmac=f8a9bf2b37ce41a3bea125f19fd8fef2f8674b82fb90161fbbeff6274b6691a6&w=826"
+    },
+
+    {
+        "id": 2,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+
+    {
+        "id": 3,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-photo/stylish-man-sitting-barbershop_1157-20485.jpg?t=st=1719305239~exp=1719308839~hmac=f8a9bf2b37ce41a3bea125f19fd8fef2f8674b82fb90161fbbeff6274b6691a6&w=826"
+    },
+
+    {
+        "id": 4,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-photo/stylish-man-sitting-barbershop_1157-20485.jpg?t=st=1719305239~exp=1719308839~hmac=f8a9bf2b37ce41a3bea125f19fd8fef2f8674b82fb90161fbbeff6274b6691a6&w=826"
+    },
+
+    {
+        "id": 5,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 200,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-photo/stylish-man-sitting-barbershop_1157-20485.jpg?t=st=1719305239~exp=1719308839~hmac=f8a9bf2b37ce41a3bea125f19fd8fef2f8674b82fb90161fbbeff6274b6691a6&w=826"
+    },
+
+    {
+        "id": 6,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-photo/stylish-man-sitting-barbershop_1157-20485.jpg?t=st=1719305239~exp=1719308839~hmac=f8a9bf2b37ce41a3bea125f19fd8fef2f8674b82fb90161fbbeff6274b6691a6&w=826"
+    },
+
+    {
+        "id": 7,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/stylish-man-sitting-barbershop_1157-20485.jpg?t=st=1719305239~exp=1719308839~hmac=f8a9bf2b37ce41a3bea125f19fd8fef2f8674b82fb90161fbbeff6274b6691a6&w=826"
+    },
+
+    {
+        "id": 8,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+
+    {
+        "id": 9,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+
+    {
+        "id": 10,
+        "name": "Comedy Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 20,
+        "category": "Entainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+
+    {
+        "id": 11,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    }
+]

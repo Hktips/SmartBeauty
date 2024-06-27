@@ -1,0 +1,65 @@
+[{
+        "id": 1,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+    {
+        "id": 1,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Style Name",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Slot",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+    }
+]
