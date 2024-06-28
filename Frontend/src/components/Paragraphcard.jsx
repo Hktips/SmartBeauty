@@ -32,7 +32,7 @@ function Paragraphcard() {
         </div>
         <div className=" order-1 w-full mt-20 md:w-1/2">
            <img 
-            src="../../public/n1.jpeg"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7q5htntKNVUaFENUTkxWngkRlhXx8-UkdKIlwETkYzPFmqWilcZhj-AAzluKMJKJhFBeY5alvw1tANWNB3ltl2T3lLP2CMKeOBklN-zxnhXOufh4zvYymIGOr325x4vc_rcfs1x5dJpQIuhDtFvjvCuOr78ilPUWMWAQIUWm8zIFybF6xIQ06Df1lZDA/s16000/n1.jpeg"
             className="md:w-[550px] md:h-[460px] md:ml-12 animate-border inline-block rounded-md bg-white bg-gradient-to-r from-red-500 via-purple-500 to-blue-500 bg-[length:400%_400%] p-1"
             alt=""
           />

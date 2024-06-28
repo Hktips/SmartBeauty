@@ -44,10 +44,10 @@ function Usercard() {
            
     <Slider {...settings}>
     {/* card 1 */}
-    <div className="card bg-base-100 w-80 shadow-xl bg-gradient-to-r from-blue-200 to-cyan-200 ">
+    <div className="card bg-base-100 w-80 shadow-xl bg-gradient-to-r from-blue-200 to-cyan-200 border-8 border-white ">
   <figure className="px-10 pt-10">
     <img
-      src="../../public/neeleshpic.png"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXoClfpa9xUvFHO_CgOnxqo1XFz37XxdT1i7SYWw39toLsIHIhnVPiMip5PYU5mw6ZnyYIF2bs8GC8GXZr6y-t_GsP7rX22T2NDmrJFd2SI7VTE5hoFvruBaNqbVFwjw9i1MRvWsXIvDAmRkXbC-kMjGhyphenhyphenr24AjLQKPiiZCRWpCF4eYiuXOmFLBnMdnuE/s16000/neeleshpic.png"
       alt="Shoes"
       className="rounded-full border-2 border-white" />
   </figure>
@@ -60,14 +60,14 @@ function Usercard() {
   </div>
 </div>
 {/* card 2 */}
-<div className="card bg-base-100 w-80 shadow-xl bg-gradient-to-r from-blue-200 to-cyan-200">
+<div className="card bg-base-100 w-80 shadow-xl bg-gradient-to-r from-blue-200 to-cyan-200 border-8 border-white">
   <figure className="px-10 pt-10">
     <img
-      src="../../public/neeleshpic.png"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXoClfpa9xUvFHO_CgOnxqo1XFz37XxdT1i7SYWw39toLsIHIhnVPiMip5PYU5mw6ZnyYIF2bs8GC8GXZr6y-t_GsP7rX22T2NDmrJFd2SI7VTE5hoFvruBaNqbVFwjw9i1MRvWsXIvDAmRkXbC-kMjGhyphenhyphenr24AjLQKPiiZCRWpCF4eYiuXOmFLBnMdnuE/s16000/neeleshpic.png"
       alt="Shoes"
       className="rounded-full border-2 border-fuchsia-600" />
   </figure>
-  <div className="card-body items-center text-center bg-gradient-to-r from-teal-400 to-yellow-200">
+  <div className="card-body items-center text-center bg-gradient-to-r from-teal-400 to-yellow-200 ">
     <h2 className="card-title">Pawan Sen</h2>
     <p>Cutting Master<br/>Experience- 3year</p>
     <div className="card-actions">
@@ -76,10 +76,10 @@ function Usercard() {
   </div>
 </div>
 {/* card 3 */}
-<div className="card bg-base-100 w-80 shadow-xl bg-gradient-to-r from-blue-200 to-cyan-200">
+<div className="card bg-base-100 w-80 shadow-xl bg-gradient-to-r from-blue-200 to-cyan-200 border-8 border-white">
   <figure className="px-10 pt-10">
     <img
-      src="../../public/neeleshpic.png"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXoClfpa9xUvFHO_CgOnxqo1XFz37XxdT1i7SYWw39toLsIHIhnVPiMip5PYU5mw6ZnyYIF2bs8GC8GXZr6y-t_GsP7rX22T2NDmrJFd2SI7VTE5hoFvruBaNqbVFwjw9i1MRvWsXIvDAmRkXbC-kMjGhyphenhyphenr24AjLQKPiiZCRWpCF4eYiuXOmFLBnMdnuE/s16000/neeleshpic.png"
       alt="Shoes"
       className="rounded-full border-2 border-fuchsia-600" />
   </figure>
