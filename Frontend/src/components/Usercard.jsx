@@ -71,7 +71,7 @@ function Usercard() {
     <h2 className="card-title">Pawan Sen</h2>
     <p>Cutting Master<br/>Experience- 3year</p>
     <div className="card-actions">
-      <button className="btn btn-primary">Buy Now</button>
+      <button className="btn btn-primary">Book Now</button>
     </div>
   </div>
 </div>
@@ -87,7 +87,7 @@ function Usercard() {
     <h2 className="card-title">Neelesh Sen!</h2>
     <p>Cutting Master<br/>Experience- 3year</p>
     <div className="card-actions">
-      <button className="btn btn-primary">Buy Now</button>
+      <button className="btn btn-primary">Book Now</button>
     </div>
   </div>
 </div>

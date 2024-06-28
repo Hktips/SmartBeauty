@@ -1,10 +1,10 @@
 [{
         "id": 1,
-        "name": "Style Name",
+        "name": "Hair Color",
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
         "price": 0,
         "category": "Slot",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+        "image": "https://img.freepik.com/free-photo/redhead-hipster-with-trendy-haircut-fuzzy-beard-dressed-white-t-shirt-posing-indoors-having-serious-sullen-look_273609-6485.jpg?size=626&ext=jpg&ga=GA1.2.950744159.1719305119&semt=ais_user"
     },
     {
         "id": 2,
@@ -12,7 +12,7 @@
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
         "price": 0,
         "category": "Slot",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+        "image": "https://img.freepik.com/free-photo/hairdresser-taking-care-clients-hair_23-2148298285.jpg?ga=GA1.2.950744159.1719305119&semt=ais_user"
     },
     {
         "id": 1,
@@ -20,7 +20,7 @@
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
         "price": 0,
         "category": "Slot",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+        "image": "https://img.freepik.com/free-photo/bearded-traveler-male-dressed-fleece-shirt-with-backpack-posing-grey-background_613910-3326.jpg?ga=GA1.2.950744159.1719305119&semt=ais_user"
     },
     {
         "id": 3,
@@ -28,15 +28,15 @@
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
         "price": 0,
         "category": "Slot",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+        "image": "https://img.freepik.com/free-photo/client-beard-shaving-barbershop_155003-29342.jpg?ga=GA1.2.950744159.1719305119&semt=ais_user"
     },
     {
         "id": 4,
-        "name": "Style Name",
+        "name": "Profesnal ",
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
         "price": 0,
         "category": "Slot",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+        "image": "https://img.freepik.com/free-photo/stylish-bearded-male-with-tattooed-arms-dressed-shirt-posing-grey-background_613910-15701.jpg?size=626&ext=jpg&ga=GA1.2.950744159.1719305119&semt=ais_user"
     },
     {
         "id": 5,
@@ -44,7 +44,7 @@
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
         "price": 0,
         "category": "Slot",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+        "image": "https://img.freepik.com/free-photo/studio-portrait-stylish-bearded-indian-man-blue-shirt-grey-background_613910-16374.jpg?size=626&ext=jpg&ga=GA1.2.950744159.1719305119&semt=ais_user"
     },
     {
         "id": 6,
@@ -52,7 +52,7 @@
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
         "price": 0,
         "category": "Slot",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+        "image": "https://img.freepik.com/free-photo/young-successful-businessman-posing-dark-wall_176420-52.jpg?size=626&ext=jpg&ga=GA1.2.950744159.1719305119&semt=ais_user"
     },
     {
         "id": 7,
@@ -60,6 +60,6 @@
         "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
         "price": 0,
         "category": "Slot",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+        "image": "https://img.freepik.com/free-photo/close-up-portrait-awesome-beautiful-tall-ararbian-beard-macho-man-glasses-military-jacket-posed-outdoor-sitting-chair-against-wooden-house_627829-13389.jpg?size=626&ext=jpg&ga=GA1.2.950744159.1719305119&semt=ais_user"
     }
 ]
